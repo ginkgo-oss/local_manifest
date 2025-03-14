@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="org" fetch="https://github.com/ginkgo-oss/" />
+
+  <project path="device/xiaomi/ginkgo" remote="org" name="device_xiaomi_ginkgo" revision="15.0" />
+  <project path="vendor/xiaomi/ginkgo" remote="org" name="vendor_xiaomi_ginkgo" revision="15.0" />
+  <project path="kernel/xiaomi/ginkgo" remote="org" name="kernel_xiaomi_ginkgo" revision="15.0" />
+</manifest>
